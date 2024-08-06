@@ -12,7 +12,7 @@
 
 # odoo-pre-commit-hooks
 
-OCA's custom pre-commit hooks for Odoo modules
+OCA's custom pre-commit hooks for the Odoo modules
 
 
 # Installation
